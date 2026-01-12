@@ -35,7 +35,6 @@ Example walkthrough: John logs in with his username (John<3mom) and puts in his 
 
 ```mermaid
 sequenceDiagram
-    sequenceDiagram
     actor John
     actor Jane
     actor Dude
