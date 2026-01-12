@@ -50,12 +50,12 @@ sequenceDiagram
 
 I am going to use the required technologies in the following ways.
 
-- **HTML** - Description here
-- **CSS** - Description here
-- **React** - Description here
-- **Service** - Description here
-- **DB/Login** - Description here
-- **WebSocket** - Description here
+- **HTML** - Uses three HTML pages. One page for the user login, one for the actual Word-duh-le game, and the last for the leaderboard.
+- **CSS** - Styling specifically on the game and leaderboard pages to make them look good. Also coloration and styling will also be applied to the guesses as the game goes on.
+- **React** - Applies the logic to all the pages. Provides the login interface, the logic behind the Word-duh-le gameplay, displays the leaderboard, etc.
+- **Service** - Submits final scores, retrieves leaderboard information, verifies and logs users into the accounts. Unable to store leaderboard information if the user isn't authenticated. 
+- **DB/Login** - Stores user profiles along with all friend/leaderboard information. Also stores the word database so the secret word can be changed daily.
+- **WebSocket** - After the user plays the game their score is placed on the leaderboard which updates all other users leaderboards.
 
 ## 🚀 AWS deliverable
 
