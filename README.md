@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Word-duh-le is a brief strategy guessing game where the players try to guess a secret word within 6 guesses. The real key to this game is the idea that the lower the score the better you did, and that score is shared with all of your friends. Turning this game into a competition as to who can get lower among all your friends. As we all know, competition is key to a good game.
+Competative, quick, and skill-based. Word-duh-le is a brief strategy guessing game where the players try to guess a secret word within 6 guesses. The real key to this game is the idea that the lower the score the better you did, and that score is shared with all of your friends. Turning this game from casual to a competition as to who can get lower among all your friends. So whose the smartest?
 
 ### Design
 
