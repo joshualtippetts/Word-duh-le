@@ -35,9 +35,16 @@ Example walkthrough: John logs in with his username (John<3mom) and puts in his 
 
 ```mermaid
 sequenceDiagram
-    actor You
-    actor Website
-    You->>Website: Replace this with your design
+    sequenceDiagram
+    actor John
+    actor Jane
+    actor Dude
+    John->>Server: Score = 4
+    Server -->>Jane: 4
+    Server -->>Dude: 4
+    Jane->>Server: Score = 5
+    Server -->>Dude: 5
+    Server -->>John: 5
 ```
 
 ### Key features
