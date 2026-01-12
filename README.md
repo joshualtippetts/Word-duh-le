@@ -25,7 +25,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 
 ### Elevator pitch
 
-Haha ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Word-duh-le is a brief strategy guessing game where the players try to guess a secret word within 6 guesses. The real key to this game is the idea that the lower the score the better you did, and that score is shared with all of your friends. Turning this game into a competition as to who can get lower among all your friends. As we all know, competition is key to a good game.
 
 ### Design
 
