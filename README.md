@@ -42,9 +42,9 @@ sequenceDiagram
 
 ### Key features
 
-- Describe your key feature
-- Describe your key feature
-- Describe your key feature
+- User login: This is so your profile can be shared and added among all your friends and also so you can keep a personal score online.
+- Word Guessing Gameplay: This is the actual body of the game where the user has to guess the word within 6 guesses. All correctly placed letters will turn green to give hints. All incorrectly placed letters but letters still found in the word will turn yellow. Finally all letters that can't be found in the word will turn gray.
+- Leaderboard: All scores will be place on the leaderboard with the lowest score being placed at the top.
 
 ### Technologies
 
