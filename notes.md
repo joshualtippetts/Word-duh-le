@@ -97,3 +97,13 @@ Handling the toggling of the checkboxes was particularly interesting.
   ))}
 </div>
 ```
+
+
+
+
+
+
+
+# Actual Notes for the Class
+## Intro notes
+I learned how to use the markdown features in GitHub and also learned different skills to help me work more efficiently on my project. 
