@@ -31,7 +31,7 @@ Word-duh-le is a brief strategy guessing game where the players try to guess a s
 
 ![Design image](placeholder.png)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Example runthough: John logs in with his username (John<3mom) and puts in his password. John has already been playing the game so he has friends and most of his friends have already played today's word-duh-le so they're already on the leaderboard. He then plays the game and gets a score of 4 today. The leaderboard places him in 4th with that score and the leaderboard gets updated for all his friends.
 
 ```mermaid
 sequenceDiagram
