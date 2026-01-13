@@ -29,7 +29,7 @@ Competative, quick, and skill-based. Word-duh-le is a brief strategy guessing ga
 
 ### Design
 
-![Design image](https://github.com/user-attachments/assets/7185c162-c060-49ea-8aa9-fcf8052b4e5b)
+![Design image](https://github.com/user-attachments/assets/06ec6443-f879-4be4-933c-fb6067b4cffa)
 
 
 Example walkthrough: John logs in with his username (John<3mom) and puts in his password. John has already been playing the game so he has friends and most of his friends have already played today's word-duh-le so they're already on the leaderboard. He then plays the game and gets a score of 4 today. The leaderboard places him in 4th with that score and the leaderboard gets updated for all his friends.
