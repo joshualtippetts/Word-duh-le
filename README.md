@@ -4,13 +4,7 @@
 
 Word-duh-le is a word guessing game where the player has to guess the hidden 5-letter word. With every guess more information is gained as to what letters are included in this 5-letter word. The player has 6 guesses before they fail. The amount of guesses correlates with your final score, the lower the better. All scores are stored in a leaderboard with all your friends! Who can get the lowest score!
 
-> [!NOTE]
-> If you are not familiar with Markdown then you should review the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) before continuing.
-
 ## 🚀 Specification Deliverable
-
-> [!NOTE]
-> Fill in this sections as the submission artifact for this deliverable. You can refer to this [example](https://github.com/webprogramming260/startup-example/blob/main/README.md) for inspiration.
 
 For this deliverable I did the following. I checked the box `[x]` and added a description for things I completed.
 
