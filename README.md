@@ -73,7 +73,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **Images** - My logo/title is an image.
 - [x] **Login placeholder** - Its in the home page.
 - [x] **DB data placeholder** - The actual game would make a call to the database for the word that day.
-- [x] **WebSocket placeholder** - Displays the score of all the people who played that day on the leaderboard.
+- [x] **WebSocket placeholder** - Displays the score of all the people who played that day on the leaderboard. Realtime updating if a friends plays next to you.
 
 ## 🚀 CSS deliverable
 
