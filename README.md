@@ -68,7 +68,7 @@ For this deliverable I did the following. I checked the box `[x]` and added a de
 - [x] **HTML pages** - 3 HTML pages.
 - [x] **Proper HTML element usage** - Used all the required tags along with a few more for better structure and description.
 - [x] **Links** - Used links to navigate to each page and also put my Github link in.
-- [x] **Text** - Used <h1>, <p>, <span>, <div>, and table tags for text options.
+- [x] **Text** - Used h1, p, span, div, and table tags for text options.
 - [x] **3rd party API placeholder** - Quote of the day on the login page.
 - [x] **Images** - My logo/title is an image.
 - [x] **Login placeholder** - Its in the home page.
