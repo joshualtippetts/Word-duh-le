@@ -1,7 +1,10 @@
 <html>
+    <head>
+        <title>Word-duh-le</title>
+    </head>
     <body>
         <header>
-            <img src="word-duh-le_logo.png" alt="Word-duh-le logo" width="100px">
+            <img src="word-duh-le_logo.png" alt="Word-duh-le logo" width="250px">
             <nav id="links">
                 <ul>
                     <li><a href="index.html">Home</a></li>
@@ -10,18 +13,25 @@
                 </ul>
                 
             </nav>
+            <hr/>
         </header>
 
         <main>
             (Authentication & Application)
-            <p>Welcome to Word-duh-le!</p>
+            <h1>Welcome to Word-duh-le!</h1>
             <p>Please login to play</p>
-            <form>
-                <label >Name:</label>
-                <input type="text" id="username"/><br>
-                <label>Password:</label>
-                <input type="password" id="password"/><br>
+            <form method="get" action="play.html">
+                <div id="username">
+                    <label >Name:</label>
+                    <input type="text" placeholder="Username"/>
+                </div>
+                <div id="password">
+                    <label>Password:</label>
+                    <input type="password" placeholder="Password"/>
+                </div>
+                
                 <button type="submit">Confirm</button>
+                <button type="submit">Create</button>
             </form>
         </main>
 
